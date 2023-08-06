@@ -4,7 +4,7 @@
 
 
 访问地址：[http://www.zhenghao.com/](http://www.zhenghao.com/)
-http://www.zhenghao.github.io/
+http://kristina263.github.io/
 
 
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
